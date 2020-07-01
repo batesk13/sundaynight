@@ -8,4 +8,7 @@ then we can make a project
 * :eye:
 * :nose:
 * :turtle:
-* :blossom:
+
+
+# some of these didn't work out #
+## when i make the font _bigger_ ##
