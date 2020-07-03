@@ -12,3 +12,7 @@ _this is another_ markdown file
 adding quotes
 > like this
 >> or this
+
+H~~2~~O
+
+20^th^
