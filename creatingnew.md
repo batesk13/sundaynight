@@ -16,3 +16,8 @@ adding quotes
 H~~2~~O
 
 20^th^
+
+_another_ **Markdown** :smile: 
+:sleeping:
+:weary:
+:collision:
