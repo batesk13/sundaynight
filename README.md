@@ -31,11 +31,9 @@ some tables are useful
 
 :cry: :tear:
 
-what even is the 20^th^ or the H~2~0
+what even is the 20^th^ or the 
 
-: : : warning
-*I'll getcha*
-: : :
+:clap: :facepunch:
 
 :star2:
 
