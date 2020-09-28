@@ -15,7 +15,6 @@ then we can make a project
 __You have to know__
 ~~strikethrough~~
 
-##blockquotes
 > blocks can be nested
 >> by this
 > > > or this
