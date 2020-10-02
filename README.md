@@ -5,7 +5,7 @@ edit the readme file
 then we can make a project
 
 ##like when we add emojis :blush: 
-* :eye:
+* :eye: :eye:
 * :nose:
 * :soccer:
 
@@ -44,7 +44,7 @@ what even is the 20^th^ or the
 :clap:
 :running:
 :dancers:
-
+:fu:
 
 ## you have seen this? ##
 __and this one too?__
