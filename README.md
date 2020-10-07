@@ -1,7 +1,7 @@
 # sundaynight
 it's the time
 
-then we can make a project
+then we can make a project after we sleep
 
 ##like when we add emojis :blush: 
 * :eye: :eye:
