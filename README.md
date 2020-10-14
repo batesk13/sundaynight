@@ -25,7 +25,10 @@ some tables are useful
 |-----|---------|
 |handlebar|moustache|
 
-![Minion](https://octodex.github.com/images/minion.png)
+![sentrytocat](https://octodex.github.com/sentrytocat/)
+
+![minion](https://octodex.github.com/minion/)
+
 
 :cry: :tear:
 
