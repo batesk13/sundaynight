@@ -48,8 +48,7 @@ what even is the 20^th^ or the
 :dancers:
 :fu:
 
-## you have seen this? ##
-__and this one too?__
+
 
 
 
