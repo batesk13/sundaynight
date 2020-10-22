@@ -52,7 +52,7 @@ what even is the 20^th^ or the
 __and this one too?__
 
 
-##do you remember?##
+
 
 ##that day in __September__ ##
 
