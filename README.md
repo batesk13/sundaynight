@@ -1,5 +1,5 @@
 # sundaynight
-it's the time
+it's the time to shine
 
 then we can make a project after we sleep
 
