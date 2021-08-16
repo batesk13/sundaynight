@@ -23,6 +23,8 @@ _another_ **Markdown** :smile:
 :collision:
 
 :pray:
-:muscle:
+💪
 
 ⚽ and also 🧦
+
+🇨🇦 is amazing. i love the ⛰️ and 🏕️
