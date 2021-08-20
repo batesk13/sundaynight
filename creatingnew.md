@@ -9,18 +9,7 @@ _this is another_ markdown file
 * this is a bullet
 * list
 
-adding quotes
-> like this
->> or this
 
-H~~2~~O
-
-20^th^
-
-_another_ **Markdown** :smile: 
-:sleeping:
-:weary:
-:collision:
 
 :pray:
 💪
@@ -34,3 +23,5 @@ _another_ **Markdown** :smile:
 🤙 this is awesome and maybe new
 
 someewherrreee over the 🌈
+
+since when did the ⚽ 🎈 come into the code?
