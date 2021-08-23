@@ -9,11 +9,6 @@ _this is another_ markdown file
 * this is a bullet
 * list
 
-
-
-:pray:
-💪
-
 ⚽ and also 🧦
 
 🇨🇦 is amazing. i love the ⛰️ and 🏕️
