@@ -29,8 +29,3 @@ this is also a table: 🌳
 |this is a | Table |
 |---|---|
 |see |here |
-
-
-| make | a | table |
-|---|---|---|
-|full |of |nothing |
