@@ -26,5 +26,5 @@ saturday changes _everything_
 but sunday morning is the best for 🏃‍♀️
 
 this is also a table
-|---|----|
+|---|---|
 |see|here|
