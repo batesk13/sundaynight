@@ -33,3 +33,5 @@ this is also a table: 🌳
 _yet another_ __Markdownfile__
 
 go for a 🏃
+
+learn something new 🐍 👶 🩹 🛶
