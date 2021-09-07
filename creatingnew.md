@@ -33,3 +33,4 @@ this is also a table: 🌳
 
 have to do a new 📊
 and a new 📈 then we can start
+then after the 📉, then we see where we can fix stuff
