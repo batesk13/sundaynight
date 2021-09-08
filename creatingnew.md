@@ -31,6 +31,4 @@ this is also a table: 🌳
 |see |here |
 |and |there |
 
-have to do a new 📊
-and a new 📈 then we can start
-then after the 📉, then we see where we can fix stuff
+⏲️ keeps on slipping... into the future.
