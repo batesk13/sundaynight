@@ -33,4 +33,4 @@ this is also a table: 🌳
 
 ⏲️ keeps on slipping... into the future.
 
-sounds sad honestly. what are all of these changes for?
+sounds a little sad honestly. what are all these changes for?
