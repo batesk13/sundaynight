@@ -25,12 +25,4 @@ saturday changes _everything_
 
 but sunday morning is the best for 🏃‍♀️
 
-this is also a table: 🌳
-|this is a | Table |
-|---|---|
-|see |here |
-|and |there |
 
-⏲️ keeps on slipping... into the future.
-
-sounds a little sad honestly. what are all these changes for?
