@@ -25,4 +25,6 @@ saturday changes _everything_
 
 but sunday morning is the best for 🏃‍♀️
 
+not really. sunday is best for 😴
+
 
