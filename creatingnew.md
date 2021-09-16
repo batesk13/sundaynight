@@ -27,11 +27,4 @@ but sunday morning is the best for 🏃‍♀️
 
 not really. sunday is best for 😴
 
-so 😫
 
-is 🏀 or 🗑️
-
-
-🏃 🏃 🏃‍♀️
-
-it's 🌧️! Love it. 
