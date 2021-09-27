@@ -30,3 +30,5 @@ saturday changes _everything_
 we can
 start again
 practice
+
+now we can get real projects going hopefully
