@@ -23,16 +23,14 @@ since when did the ⚽ 🎈 come into the code?
 
 saturday changes _everything_
 
-but sunday morning is the best for 🏃‍♀️
+* this is a bullet list
+* of stuff
 
-not really. sunday is best for 😴
 
-yes, sleeping is the best of the best
+we can
+start again
+practice
 
-whenever i can, i sleep
+now we can get real projects going hopefully
+LOL. Maybe soon. :)
 
-really gotta learn more about this eh
-
-these md files are killing me. time to do something more interesting.
-
-right and left and right and left
