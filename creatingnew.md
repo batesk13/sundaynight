@@ -27,10 +27,3 @@ saturday changes _everything_
 * of stuff
 
 
-we can
-start again
-practice
-
-now we can get real projects going hopefully
-LOL. Maybe soon. :)
-
